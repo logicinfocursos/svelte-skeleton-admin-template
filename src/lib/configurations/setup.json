@@ -1,0 +1,46 @@
+{
+    "sidebarMenu":[
+        {
+            "href": "/orders",
+            "title":"pedidos",
+            "status": 1
+        },
+        {
+            "href": "/products",
+            "title":"produtos",
+            "status": 1
+        },
+        {
+            "href": "/categorias",
+            "title":"pedidos",
+            "status": 1
+        },
+        {
+            "href": "/shops",
+            "title":"pedidos",
+            "status": 1
+        },
+        {
+            "href": "/marketplaces",
+            "title":"marketplaces",
+            "status": 1
+        },
+        {
+            "href": "/shipers",
+            "title":"entregadores",
+            "status": 1
+        }
+    ],
+    "topmenu":[
+        {
+            "href": "/",
+            "title":"home",
+            "status": 1
+        },
+        {
+            "href": "/setup",
+            "title":"configurações",
+            "status": 1
+        }
+    ]
+}
